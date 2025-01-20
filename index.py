@@ -34,7 +34,7 @@ def result():
 
 
 root = Tk()
-root.title("Конвектор")
+root.title("Конвертор")
 root.geometry("900x600")
 
 glob = Label(text="Конвертирование из mp4 в mp3", font=("Arial", 14))
